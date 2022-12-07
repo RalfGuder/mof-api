@@ -5,7 +5,18 @@
 	<groupId>javax.jmi</groupId>
 	<artifactId>mof-api</artifactId>
 	<version>1.1</version>
-
+  <distributionManagement>
+    <repository>
+      <id>github</id>
+      <name>GitHub RalfGuder Apache Maven Packages</name>
+      <url>https://maven.pkg.github.com/RalfGuder/ralfguder.github.io</url>
+    </repository>
+    <snapshotRepository>
+      <id>Sicherung</id>
+      <name>Sicherung im Netzlaufwerk</name>
+      <url>repo::default::file:////Y:/</url>
+    </snapshotRepository>
+  </distributionManagement>
 	<build>
 		<plugins>
 			<plugin>
@@ -55,8 +66,8 @@
 	<dependencies>
 		<dependency>
 			<groupId>javax.jmi</groupId>
-			<artifactId>jmi-api</artifactId>
-			<version>1.1</version>
+			<artifactId>javax-jmi</artifactId>
+			<version>1.0</version>
 		</dependency>
 	</dependencies>
 </project>
