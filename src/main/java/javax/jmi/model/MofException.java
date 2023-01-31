@@ -1,6 +1,16 @@
 package javax.jmi.model;
 
-import javax.jmi.reflect.*;
 
+/**
+ * 
+ * The “Exception” element defines an exception (or some abnormal condition).
+Abstract No.
+Super classes BehavioralFeature.
+Attributes None.
+References None.
+Operations None.
+MOF Constraints C-31, C-32.
+ *
+ */
 public interface MofException extends BehavioralFeature {
 }
