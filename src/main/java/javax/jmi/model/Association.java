@@ -1,18 +1,31 @@
 package javax.jmi.model;
 
 /**
+ * An <tt>Association</tt> represents a modeling element that classifies a set 
+ * of links.
  * 
- * An “Association” represents a modeling element that classifies a set of links.
-Abstract No.
-Super classes Classifier.
-Attributes isDerived: specifies whether the association contains links or whether the link
-set is derived.
-References None.
-Operations None.
-MOF Constraints None.
+ * <p><b>Abstract</b><br> 
+ * No.
+ * 
+ * <p><b>Super classes</b><br>
+ * Classifier.
+ * 
+ * <p><b>Attributes</b><br> 
+ * <b>isDerived:</b> specifies whether the association contains links or whether 
+ * the link set is derived.<br>
+ * 
+ * <p><b>References</b><br>
+ * None.
+ * 
+ * <p><b>Operations</b><br>
+ * None.
+ * 
+ * <p><b>MOF Constraints</b><br>
+ * None.
  *
  */
 public interface Association extends Classifier {
-    public boolean isDerived();
-    public void setDerived(boolean newValue);
+  public boolean isDerived();
+
+  public void setDerived(boolean newValue);
 }

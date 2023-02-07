@@ -3,14 +3,13 @@ package javax.jmi.model;
 import javax.jmi.reflect.*;
 
 /**
- * 
- * “Aliases” identifies the imported Namespace.
-end1: importer Identifies the element that imports a namespace.
-end1Class: Import
-multiplicity: zero or more
-end2: imported The namespace that is imported.
-end2Class: Namespace
-multiplicity: exactly one
+ * <tt>Aliases</tt> identifies the imported Namespace.
+ * end1: importer Identifies the element that imports a namespace.
+ * end1Class: Import
+ * multiplicity: zero or more
+ * end2: imported The namespace that is imported.
+ * end2Class: Namespace
+ * multiplicity: exactly one
  *
  */
 public interface Aliases extends RefAssociation {
