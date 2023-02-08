@@ -3,7 +3,7 @@ package javax.jmi.model;
 
 /**
  * 
- * The “DataType” element represents a type for data values - which, unlike ‘objects’, do not have a
+ * The <tt>DataType</tt> element represents a type for data values - which, unlike <tt>objects</tt>, do not have a
 lifetime or identity independent of their value.
 Abstract Yes.
 Super classes Classifier.

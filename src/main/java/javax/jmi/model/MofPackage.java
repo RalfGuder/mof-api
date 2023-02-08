@@ -1,7 +1,7 @@
 package javax.jmi.model;
 
 /**
- * A “Package” represents an organizational construct in modeling. A package contains model elements.
+ * A <tt>Package</tt> represents an organizational construct in modeling. A package contains model elements.
 Abstract No.
 Super classes GeneralizableElement.
 Attributes None.

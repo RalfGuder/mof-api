@@ -4,7 +4,7 @@ package javax.jmi.model;
 
 /**
  * 
- * “Classifier” represents a generalized modeling element that classifies instance objects by the features
+ * <tt>Classifier</tt> represents a generalized modeling element that classifies instance objects by the features
 that they contain.
 Abstract Yes.
 Super classes GeneralizableElement.

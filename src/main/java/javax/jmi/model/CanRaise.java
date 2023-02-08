@@ -4,7 +4,7 @@ import javax.jmi.reflect.*;
 
 /**
  * 
- * The “CanRaise” association identifies the exceptions that can be raised by an operation.
+ * The <tt>CanRaise</tt> association identifies the exceptions that can be raised by an operation.
 end1: operation The set of operations that can raise this exception.
 end1Class: Operation
 multiplicity: zero or more

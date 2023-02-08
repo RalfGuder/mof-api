@@ -4,7 +4,7 @@ import javax.jmi.reflect.*;
 
 /**
  * 
- * The “Generalizes” association identifies a supertype/subtype relationship.
+ * The <tt>Generalizes</tt> association identifies a supertype/subtype relationship.
 end1: supertype Identifies the supertype (i.e., generalized element).
 end1Class: GeneralizableElement
 multiplicity: zero or more

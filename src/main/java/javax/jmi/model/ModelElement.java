@@ -134,7 +134,7 @@ public interface ModelElement extends RefObject {
    *                kinds : Sequence(DependencyKind),
    *                recursive : boolean) : Sequence(ModelElement)
    * post: result =
-   *     if kinds -&gt; includes(“all”)
+   *     if kinds -&gt; includes("all")
    *     then
    *         self.findRequiredElements(
    *             Set{"constraint", "container", "constrained elements",

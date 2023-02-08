@@ -3,7 +3,7 @@ package javax.jmi.model;
 
 /**
  * 
- * The “EnumerationType” element represents a data type with an enumerated set of possible string values.
+ * The <tt>EnumerationType</tt> element represents a data type with an enumerated set of possible string values.
 Abstract No.
 Super classes DataType.
 Attributes labels: the strings representing the enumerated values constituting the

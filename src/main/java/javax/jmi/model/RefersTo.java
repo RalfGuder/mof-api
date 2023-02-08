@@ -4,7 +4,7 @@ import javax.jmi.reflect.*;
 
 /**
  * 
- * The “RefersTo” association defines the association end that a reference refers to.
+ * The <tt>RefersTo</tt> association defines the association end that a reference refers to.
 end1: referent The reference object that refers to an association end.
 end1Class: Reference
 multiplicity: zero or more

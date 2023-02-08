@@ -2,7 +2,7 @@ package javax.jmi.model;
 
 /**
  * 
- * The “Attribute” element defines a structural feature that contains a value (or values), i.e., an attribute.
+ * The <tt>Attribute</tt> element defines a structural feature that contains a value (or values), i.e., an attribute.
 Abstract No.
 Super classes StructuralFeature.
 Attributes isDerived: specifies whether the value is part of the state of the object, or

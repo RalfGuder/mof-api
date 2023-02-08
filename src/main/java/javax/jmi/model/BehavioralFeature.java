@@ -3,7 +3,7 @@ package javax.jmi.model;
 
 /**
  * 
- * The “BehavioralFeature” element defines a dynamic characteristic (e.g., an operation) of a model
+ * The <tt>BehavioralFeature</tt> element defines a dynamic characteristic (e.g., an operation) of a model
 element.
 Abstract Yes.
 Super classes Feature, Namespace.

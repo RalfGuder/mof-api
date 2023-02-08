@@ -3,7 +3,7 @@ package javax.jmi.model;
 
 /**
  * 
- * The “Operation” element defines a dynamic feature that offers a service, i.e., an operation.
+ * The <tt>Operation</tt> element defines a dynamic feature that offers a service, i.e., an operation.
 Abstract No.
 Super classes BehavioralFeature.
 Attributes isQuery: specifies whether the behavior of the operation alters the state of the

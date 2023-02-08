@@ -3,7 +3,7 @@ package javax.jmi.model;
 import javax.jmi.reflect.*;
 /**
  * 
- * “Constrains” identifies the constraints, if any, on a model element.
+ * <tt>Constrains</tt> identifies the constraints, if any, on a model element.
 end1: constraint Identifies the constraints.
 end1Class: Constraint
 multiplicity: zero or more

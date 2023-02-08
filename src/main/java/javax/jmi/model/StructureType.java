@@ -4,7 +4,7 @@ package javax.jmi.model;
 
 /**
  * 
- * The “StructureType” element represents a data type that is an ordered ‘tuple’ of named StructureFields
+ * The <tt>StructureType</tt> element represents a data type that is an ordered "tuple" of named StructureFields
 which are contained by the StructureType.
 Abstract No.
 Super classes DataType.

@@ -2,7 +2,7 @@ package javax.jmi.model;
 
 /**
  * 
- * The “Parameter” element defines parameters used to communicate with BehavioralFeatures.
+ * The <tt>Parameter</tt> element defines parameters used to communicate with BehavioralFeatures.
 Abstract No.
 Super classes TypedElement.
 Attributes direction: specifies the direction of information exchange (i.e., to pass a value

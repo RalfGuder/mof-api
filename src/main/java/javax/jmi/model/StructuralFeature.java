@@ -2,7 +2,7 @@ package javax.jmi.model;
 
 /**
  * 
- * The “StructuralFeature” elements defines a static characteristic (e.g., an attribute) of a model element.
+ * The <tt>StructuralFeature</tt> elements defines a static characteristic (e.g., an attribute) of a model element.
 Abstract Yes.
 Super classes Feature, TypedElement.
 Attributes multiplicity: defines the cardinality of an attribute/reference.

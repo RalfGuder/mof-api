@@ -3,6 +3,7 @@
   <viewpoint:DAnalysis uid="_alxe4HbaEe2MWa5iott0Kg" selectedViews="_3SfiAHbaEe2MWa5iott0Kg" version="14.3.0.201909031200">
     <semanticResources>mof.ecore</semanticResources>
     <semanticResources>../doc/dracula-javadoc8.css</semanticResources>
+    <semanticResources>My.xmi</semanticResources>
     <ownedViews xmi:type="viewpoint:DView" uid="_3SfiAHbaEe2MWa5iott0Kg">
       <viewpoint xmi:type="description:Viewpoint" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']"/>
       <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_3pRDQ3baEe2MWa5iott0Kg" name="mof class diagram" repPath="#_3pLjsHbaEe2MWa5iott0Kg" changeId="b7cf761e-0ce1-4723-81f4-b58b6dd51356">

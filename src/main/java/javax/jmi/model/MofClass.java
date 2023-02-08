@@ -3,7 +3,7 @@ package javax.jmi.model;
 
 /**
  * 
- * The “Class” element represents a (realizable) modeling element that classifies instance objects by the
+ * The <tt>Class</tt> element represents a (realizable) modeling element that classifies instance objects by the
 features that they contain.
 Abstract No.
 Super classes Classifier.

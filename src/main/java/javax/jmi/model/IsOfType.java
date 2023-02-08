@@ -4,7 +4,7 @@ import javax.jmi.reflect.*;
 
 /**
  * 
- * The “IsOfType” association identifies the type of a typed element.
+ * The <tt>IsOfType</tt> association identifies the type of a typed element.
 end1: type Identifies the typed element.
 end1Class: Classifier
 multiplicity: exactly one

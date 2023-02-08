@@ -26,7 +26,7 @@ package javax.jmi.model;
  * 
  * <p><b>MOF Constraints</b><br>
  * <b>EndTypeMustBeClass</b> (C-39): The type of an AssociationEnd must be Class.<br>
- * <b>EndsMustBeUnique</b> (C-40): The <tt>isUnique</tt> flag in an AssociationEnd’s 
+ * <b>EndsMustBeUnique</b> (C-40): The <tt>isUnique</tt> flag in an AssociationEnd's 
  * multiplicity must be true.<br>
  * <b>CannotHaveTwoOrderedEnds</b> (C-41): An Association cannot have two 
  * AssociationEnds marked as <tt>ordered</tt>.<br>

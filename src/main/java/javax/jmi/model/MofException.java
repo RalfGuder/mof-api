@@ -3,7 +3,7 @@ package javax.jmi.model;
 
 /**
  * 
- * The “Exception” element defines an exception (or some abnormal condition).
+ * The <tt>Exception</tt> element defines an exception (or some abnormal condition).
 Abstract No.
 Super classes BehavioralFeature.
 Attributes None.

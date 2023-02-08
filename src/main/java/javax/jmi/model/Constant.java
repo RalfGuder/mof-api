@@ -2,7 +2,7 @@ package javax.jmi.model;
 
 /**
  * 
- * The “Constant” element defines constant values of simple data types.
+ * The <tt>Constant</tt> element defines constant values of simple data types.
 Abstract No.
 Super classes TypedElement.
 Attributes value: the value of the constant.
